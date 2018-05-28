@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="teama">Team A</string>
+    <string name="teamb">Team B</string>
+    <string name="teamatouchdown">touch down - 6</string>
+    <string name="teamafieldgoal">field goal - 3</string>
+    <string name="teamaextrapoints">extra point - 1</string>
+    <string name="teamatwopoints">+2 points</string>
+    <string name="teambtouchdown">touch down - 6</string>
+    <string name="teambfieldgoal">field goal - 3</string>
+    <string name="teambextrapoints">extra point - 1</string>
+    <string name="teambtwopoints">+2 points</string>
+    <string name="reset">reset</string>
+</resources>
